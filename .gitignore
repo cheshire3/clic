@@ -4,7 +4,7 @@
 *Store*.bdb
 *.data
 *.data_*
-
+dbs/dickens/logs/*
 # Python compiled/optimized files
 *.py[co]
 
